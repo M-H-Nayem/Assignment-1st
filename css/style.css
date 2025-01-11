@@ -1,5 +1,7 @@
 body {
     font-family: 'Fira Sans', sans-serif;
+    width: 1600px;
+    height: 5200px;
 }
 /* nav edit  */
 .nav-css{
@@ -16,8 +18,8 @@ font-weight: 700;
 line-height: 38px;
 letter-spacing: 0%;
 text-align: left;
-padding: 24px 160px 24px 160px;
-margin: 31px auto 31px 160px;
+padding: 24px 160px 24px 150px;
+margin: 31px 10px 31px 10px;
 }
 .nav-p{
     color: rgb(0, 106, 80);
@@ -31,6 +33,7 @@ text-align: left;
     width: 116px;
 height: 52px;
 padding: 15px 30px 15px 30px;
+margin: 31px 160px 31px 10px;
 box-sizing: border-box;
     border: 1px solid rgb(0, 106, 80);
     border-radius: 8px;
